@@ -73,7 +73,7 @@ section {
     padding: 60px;
 }
 
-/* Hero Style Start */
+/* apply styles to Hero */
 .hero {
     background-image: url("../images/hero-bg.jpg");
     height: 600px;
@@ -121,6 +121,6 @@ section {
     background-color: #024e76;
     border: none;
     padding: 10px 20px;
-    font-size: 16ps;
+    font-size: 16px;
 }
 
